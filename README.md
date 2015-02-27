@@ -2,8 +2,8 @@ This guide should help you get started as a person of importance working for the
 
 ## Table of Contents
 The following files should be read in this particular order:
-- [Setting Up](https://github.com/Poulin-Research-Group/getting-started/blob/master/SettingUp.md)
-- Solving PDEs Numerically (TODO: host this online...)
+- [Setting Up]()
+- [Solving PDEs Numerically]()
 - Parallel Scientific Computing (**TODO**)
 
 ## Useful Resources
