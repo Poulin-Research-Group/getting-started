@@ -1,1 +1,9 @@
+# compiled markdown
 SettingUp.html
+
+# fortran and compiled fortran
+**/*.so
+**/*.f
+
+# checkpoints for ipython notebooks
+.ipynb_checkpoints
